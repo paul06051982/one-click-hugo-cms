@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a consciencesa
+title: Great coffee with a consciencesas
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
