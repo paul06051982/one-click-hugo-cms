@@ -14,7 +14,7 @@ const ContactEntries = ({data}) => data && data.length > 0
 
 export default class ContactPreview extends React.Component {
   render() {
-    const {entry, getAsset, widgetFor} = this.props;
+/*    const {entry, getAsset, widgetFor} = this.props;
     const entryContactEntries = entry.getIn(["data", "contact_entries"]);
     const contactEntries = entryContactEntries ? entryContactEntries.toJS() : [];
     return <div className="ph3 bg-off-white">
@@ -23,6 +23,7 @@ export default class ContactPreview extends React.Component {
         { widgetFor("body") }
         <ContactEntries data={contactEntries} />
       </div>
-    </div>;
+    </div>;*/
+	return <div></div>;
   }
 }
